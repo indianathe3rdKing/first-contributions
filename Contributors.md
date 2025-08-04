@@ -1,7 +1,7 @@
 - Abdugofurov Behruzbek
   []# Contributors
 - [Dly](https://github.com/Dly27) - i was here (24/07/25)
-- [Indiphile Menziwa](https://github.com/indianathe3rdKing)- Just kicking out open source. First contribution won't be the last.(02/08/2025)
+- [Indiphile Menziwa](https://github.com/indianathe3rdKing)(02/08/2025)
 - [Daniel](https://github.com/danielrasheedi) - Hi! (24 July 2025)
 - [Coran Chunilall](https://github.com/GalaxyMatrix) - Hello! This is my first open source contribution! (July 24, 2025)
 - qzx
@@ -873,7 +873,7 @@
 - [gitty98]noice
 - [Ancil](https://github.com/iamancil)
 - [Om Borse](https://github.com/Om-Borse26) My first contribution to open source!
-- [androvonx95](https://github.com/androvonx95) – **** I use Arch btw 🗿🗿🗿🗿 ****
+- [androvonx95](https://github.com/androvonx95) – \***\* I use Arch btw 🗿🗿🗿🗿 \*\***
 - [Robyn](https://github.com/RBodde)
 - [Snowsita](https://github.com/Snowsita)
 - [smoglmy](https://github.com/smoglmy)
